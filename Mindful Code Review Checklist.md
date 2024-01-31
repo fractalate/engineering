@@ -6,13 +6,14 @@ This questionnaire is designed to be used when you are reviewing code. You might
 
 ## Orient Yourself
 
-Before considering the code deeply, gain an understanding of the context in which the software is used or developed.
+Before considering the code deeply, gain an understanding of the context in which the software is used and developed.
 
 * What kind of computer systems run the software?
 * What languages and tools are used to build the software?
 * What libraries does the software use?
 * What ecosystems does this software exist within?
 * What relevant direction is outlined for the software?
+* Who are the intended users of the software?
 
 ## More Stuff
 
@@ -26,4 +27,3 @@ Before considering the code deeply, gain an understanding of the context in whic
 * Is the relevant documentation updated?
 * Are tests passing?
 * Are relevant tests added or updated?
-
