@@ -1,6 +1,6 @@
 # Mindful Code Review Checklist
 
-*Tuesday, March 26, 2024*
+*Tuesday, March 26, 2024 - Revision 1*
 
 This questionnaire is designed to be used when you are reviewing code. You might use this when reviewing an entire project you're not familiar with or while evaluating a pull request for your own project on GitHub.
 
